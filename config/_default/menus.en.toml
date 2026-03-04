@@ -17,12 +17,13 @@
 
 [[main]]
   name = "Projects"
-  weight = 20
+  pageRef = "projects"
+  weight = 10
 
 [[main]]
   name = "Gridtopia"
   parent = "Projects"
-  pageRef = "posts"
+  pageRef = "Gridtopia"
   weight = 10
 
 [[main]]
