@@ -1,6 +1,6 @@
 ---
-title: "Gridtopia"
-summary: "Solo dev | Unity tool for creating grid based games"
+title: "Breakabull"
+summary: "16 Person project | UI and economy focus"
 
 showDate : false
 showDateUpdated : false

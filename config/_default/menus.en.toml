@@ -29,13 +29,13 @@
 [[main]]
   name = "World War Wizard"
   parent = "Projects"
-  pageRef = "posts"
+  pageRef = "WWW"
   weight = 20
   
 [[main]]
   name = "Breakabull"
   parent = "Projects"
-  pageRef = "posts"
+  pageRef = "Breakabull"
   weight = 30
 
 #[[subnavigation]]

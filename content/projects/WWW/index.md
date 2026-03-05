@@ -1,6 +1,6 @@
 ---
-title: "Gridtopia"
-summary: "Solo dev | Unity tool for creating grid based games"
+title: "World War Wizard"
+summary: "Solo dev | Strategy game"
 
 showDate : false
 showDateUpdated : false

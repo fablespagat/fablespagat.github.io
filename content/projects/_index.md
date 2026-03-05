@@ -1,6 +1,8 @@
 ---
 title: "Projects"
 
+draft : false
+
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
