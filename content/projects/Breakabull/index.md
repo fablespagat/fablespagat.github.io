@@ -1,6 +1,6 @@
 ---
 title: "Breakabull"
-summary: "16 Person project | UI and economy focus"
+summary: "16 person project | UI and economy focus"
 
 showDate : false
 showDateUpdated : false
