@@ -17,10 +17,10 @@ title = "Fable Spagat"
 [params.author]
   name = "Fable Spagat"
   email = "hspagat246@gmail.com"
-  image = "images/profilepic.jpeg"
+#   image = "images/profilepic.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
-  bio = "I expect to graduate with a BS in Game Design with a minor in Game Programming"
+#   headline = "Game design and programming \n with a particular passion for UI, tools programming, and economy"
+#   bio = "I expect to graduate with a BS in Game Design with a minor in Game Programming"
   links = [
 #     { email = "mailto:hspagat246@gmail.com" },
 #     { discord = "https://discord.gg/invitecode" },
