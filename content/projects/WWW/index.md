@@ -1,13 +1,14 @@
 ---
 title: "World War Wizard"
 summary: "Solo dev | Strategy game"
+# projects: ["Solo", "Unity"]
 
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
 showPagination : false
 showReadingTime : false
-showTableOfContents : false
+showTableOfContents : true
 showTaxonomies : false 
 showWordCount : false
 showSummary : true
