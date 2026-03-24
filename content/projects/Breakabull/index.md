@@ -1,6 +1,6 @@
 ---
 title: "Breakabull"
-summary: "16 person project | UI and economy focus"
+summary: "UI and economy focus"
 # projects: ["Cooperative", "UI", "Economy", "VR", "Unity"]
 
 showDate : false
@@ -14,6 +14,15 @@ showWordCount : false
 showSummary : true
 sharingLinks : false
 ---
+## Summary
+
+Description
+
+**Project Timeline** | January 2026 - May 2026  
+**Engine** | Unity  
+**Team Size** | 16 Devs
+
+***
 
 ## Overview
 

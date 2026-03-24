@@ -1,6 +1,6 @@
 ---
 title: "World War Wizard"
-summary: "Solo dev | Strategy game"
+summary: "Strategy game"
 # projects: ["Solo", "Unity"]
 
 showDate : false
