@@ -26,7 +26,9 @@ When I began making my second grid-based game, I decided that I should create a 
 
 ## Guiding Philosophies
 - Modular systems to allow for complete user control
-- Reduce required scripting and technical knowledge
+- Reduce required scripting and technical knowledge to a minimum
+
+![Gridtopia overview](/images/Gridtopia1.webp)
 
 ## Features
 ### Implemented
@@ -44,7 +46,12 @@ When I began making my second grid-based game, I decided that I should create a 
 
 ## Example Process
 ### Grid Creation
-Grid creation steps
+![Gridtopia overview](/images/Gridtopia2.webp)
+![Gridtopia overview](/images/Gridtopia3.webp)
+![Gridtopia overview](/images/Gridtopia4.webp)
+![Gridtopia overview](/images/Gridtopia5.webp)
 
 ### Tile/Unit Creation
-Tile/unit creation steps
+![Gridtopia overview](/images/Gridtopia6.webp)
+![Gridtopia overview](/images/Gridtopia7.webp)
+![Gridtopia overview](/images/Gridtopia8.webp)
