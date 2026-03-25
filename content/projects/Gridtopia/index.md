@@ -46,12 +46,7 @@ When I began making my second grid-based game, I decided that I should create a 
 
 ## Example Process
 ### Grid Creation
-![Gridtopia overview](/images/Gridtopia2.webp)
-![Gridtopia overview](/images/Gridtopia3.webp)
-![Gridtopia overview](/images/Gridtopia4.webp)
-![Gridtopia overview](/images/Gridtopia5.webp)
+{{< carousel images = "GridSetUp/*" interval = "5000" captions = "{Gridtopia2.webp:Add the Gridtopia window, Gridtopia4.webp:Add a grid manager to your scene, Gridtopia5.webp:Select your manager and begin configuring settings}">}}
 
 ### Tile/Unit Creation
-![Gridtopia overview](/images/Gridtopia6.webp)
-![Gridtopia overview](/images/Gridtopia7.webp)
-![Gridtopia overview](/images/Gridtopia8.webp)
+{{< carousel images = "TileUnitSetUp/*" interval = "5000" captions = "{Gridtopia6.webp:Type in a name to create a copy of a template tile/unit, Gridtopia7.webp:Type in a name to create a script for a new unit behaviour, Gridtopia8.webp:Assign the desired behaviours to the set events}">}}
